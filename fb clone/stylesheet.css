@@ -15,11 +15,14 @@
     padding-inline: 30px;
     
 }
-.fb{
+.img-div{
+    text-align: center;
+}
+.fb-logo{
    width: 200px;
-     margin-top: 60px;
-    margin-left: 633px;
+   margin-top: 60px;
    
+    
 }
 
 #log{
